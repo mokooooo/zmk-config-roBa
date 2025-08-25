@@ -80,10 +80,10 @@
 
         default_layer {
             bindings = <
-&lt 1 Q         &kp W                         &kp E         &kp R             &kp T                            &kp Y  &kp U  &lt 5 I    &kp O    &kp P
-&kp TAB         &kp A                         &kp S         &kp D             &kp F  &lt 2 G        &none      &kp H  &kp J  &kp K      &kp L    &kp ENTER
-&kp LEFT_SHIFT  &kp X                         &kp C         &kp V             &kp B  &kp COLON      &none      &kp N  &kp M  &kp COMMA  &kp DOT  &kp BACKSPACE
-&kp LCTRL       &kp C_AL_AV_CAPTURE_PLAYBACK  &kp LEFT_ALT  &kp LEFT_COMMAND  &mo 4  &none          &kp SPACE  &mo 3                             &lt_to_layer_0 5 ESCAPE
+&lt 1 Q         &kp W                 &kp E         &kp R             &kp T                            &kp Y  &kp U  &lt 5 I    &kp O    &kp P
+&kp TAB         &kp A                 &kp S         &kp D             &kp F  &lt 2 G        &none      &kp H  &kp J  &kp K      &kp L    &kp ENTER
+&kp LEFT_SHIFT  &kp X                 &kp C         &kp V             &kp B  &kp COLON      &none      &kp N  &kp M  &kp COMMA  &kp DOT  &kp BACKSPACE
+&kp LCTRL       &kp LS(LC(NUMBER_4))  &kp LEFT_ALT  &kp LEFT_COMMAND  &mo 4  &none          &kp SPACE  &mo 3                             &lt_to_layer_0 5 ESCAPE
             >;
         };
 
