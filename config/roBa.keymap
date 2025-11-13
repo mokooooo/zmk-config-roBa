@@ -100,7 +100,7 @@
             bindings = <
 &none   &kp DQT               &kp AT                 &kp SINGLE_QUOTE  &kp POUND                                &kp N7        &kp N8        &kp N9        &kp SLASH  &kp PERCENT
 &none   &kp QMARK             &kp EXCLAMATION        &kp AMPERSAND     &kp SEMICOLON  &kp COLON      &kp DOT    &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp ASTRK  &kp MINUS
-&none   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &none             &kp DLLR       &none          &kp N0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none      &none
+&none   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE          &kp DLLR       &none          &kp N0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none      &none
 &trans  &trans                &trans                 &trans            &trans         &trans         &kp EQUAL  &kp PLUS                                             &none
             >;
         };
